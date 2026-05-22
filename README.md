@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Sai Charan Chevula 👋
 
-<!--
-**saichevula/saichevula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+High school junior based in the US, teaching myself Python and exploring finance and other fields.
 
-Here are some ideas to get you started:
+## What I'm working on
+- Building Python projects focused on financial data and analysis
+- Learning data manipulation with pandas and NumPy
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- Python, JavaScript, HTML, CSS
+- pandas, NumPy, matplotlib, yfinance
+
+## Interests
+- Quantitative finance and trading strategy
+- Data visualization
+- Soccer
+- Sales
+- Artifical Intelligence
+
+## Projects
+- 🔗 [Compound Interest Calculator](https://github.com/saichevula/compound-interest-calculator) — coming soon
