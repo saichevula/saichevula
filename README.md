@@ -18,4 +18,4 @@ High school junior based in the US, teaching myself Python and exploring finance
 - Artifical Intelligence
 
 ## Projects
-- 🔗 [Compound Interest Calculator](https://github.com/saichevula/compound-interest-calculator) — coming soon
+- 🔗 [Compound Interest Calculator]([https://github.com/saichevula/compound-interest-calculator](https://github.com/saichevula/compound-interest-calculator.git)) — coming soon
