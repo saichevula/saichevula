@@ -19,3 +19,4 @@ High school junior based in the US, teaching myself Python and exploring finance
 
 ## Projects
 - 🔗 [Compound Interest Calculator](https://github.com/saichevula/compound-interest-calculator.git)
+- [Stock Market Analysis](https://github.com/saichevula/stock-market-analysis-app/blob/main/stock_analysis.py)
